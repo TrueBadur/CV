@@ -19,7 +19,7 @@
   <tr>
     <td>HTML, CSS</td><td>★☆☆☆☆</td><td></td>
     <td>PHP</td><td>★☆☆☆☆</td><td></td>
-    <td></td><td></td>
+    <td>Git</td><td>★★★☆☆</td><td></td>
   </tr>
   <tr>
     <td>Photoshop</td><td>★★★★☆</td><td></td>
