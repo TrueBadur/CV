@@ -12,7 +12,7 @@
     <td>OpenCL</td><td>★★☆☆☆</td>
   </tr>
   <tr>
-    <td>Python</td><td>★☆☆☆☆</td><td></td>
+    <td>Python</td><td>★★☆☆☆</td><td></td>
     <td>Shell</td><td>★☆☆☆☆</td><td></td>
     <td>JavaScript</td><td>★☆☆☆☆</td>
   </tr>
