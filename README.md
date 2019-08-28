@@ -17,14 +17,14 @@
     <td>JavaScript</td><td>★☆☆☆☆</td>
   </tr>
   <tr>
-    <td>HTML, CSS</td><td>★☆☆☆☆</td><td></td>
+    <td>C++</td><td>★☆☆☆☆</td><td></td>
     <td>PHP</td><td>★☆☆☆☆</td><td></td>
     <td>Git</td><td>★★★☆☆</td>
   </tr>
   <tr>
     <td>Photoshop</td><td>★★★★☆</td><td></td>
     <td>3DSMax</td><td>★★★★☆</td><td></td>
-    <td></td><td></td>
+    <td>HTML, CSS</td><td>★☆☆☆☆</td>
   </tr>
 </table>
 <h3 style="color: red;">О СЕБЕ</h3>
