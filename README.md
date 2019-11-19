@@ -17,14 +17,14 @@
     <td>JavaScript</td><td>★☆☆☆☆</td>
   </tr>
   <tr>
-    <td>HTML, CSS</td><td>★☆☆☆☆</td><td></td>
+    <td>C++</td><td>★☆☆☆☆</td><td></td>
     <td>PHP</td><td>★☆☆☆☆</td><td></td>
     <td>Git</td><td>★★★☆☆</td>
   </tr>
   <tr>
     <td>Photoshop</td><td>★★★★☆</td><td></td>
     <td>3DSMax</td><td>★★★★☆</td><td></td>
-    <td></td><td></td>
+    <td>HTML, CSS</td><td>★☆☆☆☆</td>
   </tr>
 </table>
 <h3 style="color: red;">О СЕБЕ</h3>
@@ -39,7 +39,7 @@ web-разработке и многих других областях :)</p>
 <h4>FDF  – <a href="https://github.com/TrueBadur/fdf">Github:fdf</a></h4>
 <p>Приложение для отображения высотных карт в 3D. Реализовано на основе матричных преобразований точек исходного 
 объекта (карты), а также алгоритма Брезенхема. Работа велась в команде из 2 человек.</p> 
-<h4>Fract_ol  – <a href="https://github.com/TrueBadur/libft">Github:fract_ol</a></h4>
+<h4>Fract_ol  – <a href="https://github.com/TrueBadur/fract_ol">Github:fract_ol</a></h4>
 <p>Приложение для визуализации фрактала Манделброта и Джулии а также их производных. 
 Реализован на Си с использованием OpenCL. Реализован простенький UI с для переключения между фракталами и 
 сохранением интересных позиций.</p>
